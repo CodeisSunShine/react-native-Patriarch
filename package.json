@@ -1,7 +1,6 @@
-
 {
   "name": "react-native-patriarch",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "一个设备解释组件",
   "main": "index.js",
   "scripts": {
